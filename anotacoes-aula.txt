@@ -1,0 +1,11 @@
+chave primária - chave de identificação única
+
+Entidade/tabelas: - fabricantes: id, nome (id é um campo auto incrementado - é o banco que fornece o ID)
+- produtos: id, nome, preço, quantidade, descrição, fabricante id
+
+not null - campo obrigatório (não pode estar nulo/vazio)
+relacionamento 1:N - 1 fabricante para N produtos
+
+para acessar o PHPmyAdmin
+no Xampp ligar o apache e mySQL e no navegador acessar: localhost/phpmyadmin
+
