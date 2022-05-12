@@ -9,3 +9,12 @@ relacionamento 1:N - 1 fabricante para N produtos
 para acessar o PHPmyAdmin
 no Xampp ligar o apache e mySQL e no navegador acessar: localhost/phpmyadmin
 
+Comandos CRUD
+C create - comando SQL é INSERT
+R read - comando SQL é SELECT
+U update - comando SQL é UPDATE
+D delete - comando SQL é DELETE
+
+Query - consulta
+
+
